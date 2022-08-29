@@ -1,0 +1,1 @@
+export const URL_BASE: string ="https://labenews.herokuapp.com"
